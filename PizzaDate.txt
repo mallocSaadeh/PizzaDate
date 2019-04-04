@@ -1,0 +1,9 @@
+Create an MVVM app. In this app, please implement the following:
+
+1. MVVM architecture
+2. Objective-C & Swift Hybrid codebase
+3. Unit Testing & UI Testing
+4. Dependency Injection for your tests
+5. Some use of some third-party libraries
+
+Deliver something by Friday, start of day. You are free, and recommended, to consult with the SME's here.
